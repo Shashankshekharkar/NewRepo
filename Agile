@@ -2,3 +2,9 @@ SDLC(Agile Method)
 ---------------------
 1. To overcome clashes b/w teams, companies now have introduced sync-up/stand-up/scrum calls where both the teams are available on a common call and get their issues and tasks updated and resolved under the presence of a manager.
 
+2. To fulfill manual drawback, companies have started using automation tools at different stages of software development cycle.
+   ---------------------------------------------------------------------------------------------------------------------------
+   Develop/write code --> GIT       | Deploy      --> Ansible, Docker, kubernetes
+   Build              --> Maven     | Maintenance --> Varies from org to org.
+   Testing            --> Selenium  | Monitoring  --> Cloudwatch, SNS(Simple notification service)
+
