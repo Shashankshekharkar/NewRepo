@@ -8,3 +8,4 @@ SDLC(Agile Method)
    Build              --> Maven     | Maintenance --> Varies from org to org.
    Testing            --> Selenium  | Monitoring  --> Cloudwatch, SNS(Simple notification service)
 
+3. to overcome the drawback of step-by-step method, companies have now started using/linking all the tools required, to Jenkins. This creates an environment where everyone related to the project are in update and are working in a continuous manner.
